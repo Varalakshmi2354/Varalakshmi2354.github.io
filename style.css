@@ -90,12 +90,4 @@ section img#m
     z-index: 10;
 }
 
-footer {
-    background-color: #2b1055;
-    color: #fff;
-    text-align: center;
-    padding: 20px;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-}
+
